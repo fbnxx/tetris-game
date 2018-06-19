@@ -1,0 +1,47 @@
+
+
+/* .board{
+
+    width: 100%;
+} */
+
+/* .board .left-panel{
+
+    float: left;
+    left:auto;
+} */
+
+
+.board .center-panel{
+
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.board .right-panel{
+
+    margin-top: 100px;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+    
+} 
+
+.board .left-panel{
+
+    margin-top: 100px;
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+    
+} 
+
+h2 {
+
+    margin: 30px auto !important;
+}
+/* 
+.shape-button {
+    margin-top: 20px;    
+} */
